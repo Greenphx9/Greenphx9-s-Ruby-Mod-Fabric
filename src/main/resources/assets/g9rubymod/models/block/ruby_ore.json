@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "g9rubymod:blocks/ruby_ore"
+  }
+}

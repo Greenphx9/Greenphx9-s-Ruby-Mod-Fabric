@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "# #"
+    ],
+    "key": {
+        "#": {
+            "item": "g9rubymod:ruby"
+        }
+    },
+    "result": {
+        "item": "g9rubymod:ruby_leggings",
+        "count": 1
+    }
+}

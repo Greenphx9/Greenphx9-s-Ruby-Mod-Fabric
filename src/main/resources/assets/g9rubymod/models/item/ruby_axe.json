@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "g9rubymod:items/ruby_axe"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "g9rubymod",
+  "version": "${version}",
+
+  "name": "Greenphx9's Ruby Mod",
+  "description": "This mod is about rubies! Rubies, Ruby ore, Ruby items and more!",
+  "authors": [
+    "Greenphx9"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/g9rubymod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.greenphx9.rubymod.RubyMod"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
